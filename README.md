@@ -1,7 +1,5 @@
 # restapi
 
-REST-API
-========
 Models:
   Purchaser
     - id
